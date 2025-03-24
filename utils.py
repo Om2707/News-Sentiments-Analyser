@@ -1,7 +1,7 @@
 import requests
 from sentiment import analyze_sentiment
 
-API_KEY = " " # Replace with your NewsAPI Key
+API_KEY = "83219e08cc65425fb0672fd46d47f7d4 " 
 NEWS_API_URL = "https://newsapi.org/v2/everything"
 
 def fetch_news(company):
